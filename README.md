@@ -1,4 +1,4 @@
-![image](https://github.com/GabrielAmadeus/CodeIgniter4-CRUD/assets/143593330/013426ec-8f26-4cf4-a818-6a4e218e4692)# CodeIgniter4-CRUD
+CodeIgniter4-CRUD
 Create, Read, Update, Delete operation using CodeIgniter 4 Framework
 
 NOTE: The code above only contains the following:
