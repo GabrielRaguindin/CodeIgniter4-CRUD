@@ -1,7 +1,7 @@
 # CodeIgniter4-CRUD
 Create, Read, Update, Delete operation using CodeIgniter 4 Framework
 
-NOTE: The code above only contains Routes, Database Migrations, Controllers, Models, and Views
+NOTE: The code above only contains Routes, Database Migrations, Controllers, Models, and Views.
       The CodeIgniter Framework as a whole is not included.
 
 Subject Dashboard:
